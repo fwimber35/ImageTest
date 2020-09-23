@@ -1,6 +1,6 @@
 # ImageTest
 **Markdown**
-![RepositoryImage](images/RepositoryImage.png)
+![RepositoryImage](Images/RepositoryImage.png)
 **HTML**
-<img src="images/RepositoryImage.png" alt="RepositoryImage" width="100" height="100">
+<img src="Images/RepositoryImage.png" alt="RepositoryImage" width="100" height="100">
 
